@@ -1,0 +1,28 @@
+1) if(condition):
+        if block
+else:
+    else block
+
+2) if elif - elif ----- else (ladder if)
+
+if(condition):
+    if block
+elif(condition - 2):
+    block 2 elif
+elif(condition - 3):
+    block 3 elif
+else:
+    print("else block")
+
+3) age >=18 and age < 90
+voter_id = true
+
+indian = true
+
+state = true
+
+if (age >=18 and age < 90):
+    if(voter_id):
+        if(indian):
+            if (state):
+                        print("age")

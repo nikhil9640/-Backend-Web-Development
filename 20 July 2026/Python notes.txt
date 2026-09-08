@@ -1,0 +1,3 @@
+20th July - Introduction to python
+
+21st July - Variables
